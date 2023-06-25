@@ -3,9 +3,9 @@
 <h3 align="center">A Passionate Full-Stack Developer From India.</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Java, Node, C, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, Node.js, C, HTML, CSS, JavaScript, Bootstrap MongoDB, MySql**
 
 - 📫 How to reach me **dkrai921@gmail.com**
 
