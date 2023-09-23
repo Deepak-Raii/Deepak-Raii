@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Java, Node.js, C, HTML, CSS, JavaScript, Bootstrap MongoDB, MySql**
+- 💬 Ask me about **Java, Node.js, express.js, react.js, react-native, C, HTML, CSS, JavaScript, Bootstrap, MongoDB, MySql**
 
 - 📫 How to reach me **dkrai921@gmail.com**
 
